@@ -1,4 +1,5 @@
 import React from "react";
+import './title.stylesheet.css';
 
 export interface Props {
     children: string;
